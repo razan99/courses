@@ -1,0 +1,33 @@
+img.Navbar-Logo-8 {
+    padding: 12px;
+    justify-content: flex-start;
+    width: 176px;
+}
+.Navbar-root-1 {
+    width: 103%;
+  }
+  .MuiAppBar-colorPrimary-16 {
+    width: 101%;
+    margin: -7px;
+    color: #fff;
+    background-color: #3f51b5;
+
+}
+
+.MuiCardContent-root-299 {
+    background: #036dbf;
+   
+}
+.MuiTypography-gutterBottom-76 {
+    text-align: -webkit-center;
+    color: aliceblue;
+}
+
+.MuiTypography-h6-66 {
+    color: rgba(245, 239, 239, 0.87);
+    font-size: 1.25rem;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 500;
+    line-height: 1.6;
+    letter-spacing: 0.0075em;
+}
